@@ -8,7 +8,7 @@ https://youtu.be/nTJZis5JKrE
 Research paper link:
 
 
-Google Colab link for complete code:
+Proof of Concept; Google Colab link for Preliminary Analysis:
 https://colab.research.google.com/drive/1GT-5rk0hkYlRwe8TXLblnePDPpCOKzEw#scrollTo=YMfc1pytcJ7Q 
 
 
