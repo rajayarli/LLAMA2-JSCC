@@ -6,7 +6,15 @@ For 3GPP recognition of new semantic communication (SemCom) paradigms and to sup
 
 ![Conceptual view of the proposed SemCom Networking: Llama-2 over JSCC. The proposed notion of jointly training models centrally while deploying them in a distributed manner resonates strongly with the encoder-decoder transformer model, presenting a promising avenue for streamlined communication.](http://url/to/img.png)
 
-
+![In Algorithm 1, we provide only the essential details of our
+implementation code to help clarify and track our convergent
+design and demonstrate the core implementation pseudocode
+of the proposed framework. For in-depth exploration, we
+suggest visiting the complete
+codebase developed in this research.
+Observe in Algorithm 1 that at the heart of our solution is
+the utilization of Llama-2 as a tool for understanding before
+transmission and after reception in the JSCC framework.](https://github.com/rajayarli/LLAMA2-JSCC/blob/ec3ce6ff59994dabf3a37d5b0982031865f31a20/Algorithm11.png)
 
 Proof of Concept; Google Colab link for Preliminary Analysis:
 https://colab.research.google.com/drive/1GT-5rk0hkYlRwe8TXLblnePDPpCOKzEw#scrollTo=YMfc1pytcJ7Q 
