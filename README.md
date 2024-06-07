@@ -4,6 +4,7 @@ For 3GPP recognition of new semantic communication (SemCom) paradigms and to sup
 
 
 
+![Conceptual view of the proposed SemCom Networking: Llama-2 over JSCC. The proposed notion of jointly training models centrally while deploying them in a distributed manner resonates strongly with the encoder-decoder transformer model, presenting a promising avenue for streamlined communication.](http://url/to/img.png)
 
 
 
