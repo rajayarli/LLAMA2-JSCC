@@ -36,4 +36,7 @@ transmission and after reception in the JSCC framework.](https://github.com/raja
 https://colab.research.google.com/drive/1GT-5rk0hkYlRwe8TXLblnePDPpCOKzEw#scrollTo=YMfc1pytcJ7Q 
 Youtube link for a simple code review:
 https://youtu.be/nTJZis5JKrE 
-
+### Some Key references
+i) https://github.com/meta-llama/llama
+ii) https://github.com/anthropics/hh-rlhf
+iii) .................
