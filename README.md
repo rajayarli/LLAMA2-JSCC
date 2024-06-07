@@ -16,6 +16,7 @@ codebase developed in this research.
 Observe in Algorithm 1 that at the heart of our solution is
 the utilization of Llama-2 as a tool for understanding before
 transmission and after reception in the JSCC framework
+
 ![In Algorithm 1, we provide only the essential details of our
 implementation code to help clarify and track our convergent
 design and demonstrate the core implementation pseudocode
@@ -26,8 +27,13 @@ Observe in Algorithm 1 that at the heart of our solution is
 the utilization of Llama-2 as a tool for understanding before
 transmission and after reception in the JSCC framework.](https://github.com/rajayarli/LLAMA2-JSCC/blob/ec3ce6ff59994dabf3a37d5b0982031865f31a20/Algorithm11.png)
 
-Proof of Concept; Google Colab link for Preliminary Analysis:
+
+#### Algorithm 2: A high-level view of our framework for context distillation and toxicity analysis
+![In Algorithm 2](https://github.com/rajayarli/LLAMA2-JSCC/blob/ec3ce6ff59994dabf3a37d5b0982031865f31a20/Algorithm22.png)
+
+
+##### Proof of Concept; Google Colab link for Preliminary Analysis:
 https://colab.research.google.com/drive/1GT-5rk0hkYlRwe8TXLblnePDPpCOKzEw#scrollTo=YMfc1pytcJ7Q 
-Youtube link for code review:
+Youtube link for a simple code review:
 https://youtu.be/nTJZis5JKrE 
 
